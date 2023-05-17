@@ -1,0 +1,197 @@
+LOG_SUCCESS       | info    | The initialization finished successfully without homotopy method.
+assert            | info    | The following assertion has been violated at time 10.010000
+assert            | info    | The following assertion has been violated at time 10.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 15.010000
+assert            | info    | The following assertion has been violated at time 15.010000
+assert            | info    | The following assertion has been violated at time 15.010000
+assert            | info    | The following assertion has been violated at time 15.010000
+assert            | info    | The following assertion has been violated at time 15.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 20.010000
+assert            | info    | The following assertion has been violated at time 20.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 25.010000
+assert            | info    | The following assertion has been violated at time 25.010000
+assert            | info    | The following assertion has been violated at time 25.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 30.010000
+assert            | info    | The following assertion has been violated at time 30.010000
+assert            | info    | The following assertion has been violated at time 30.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 35.010000
+assert            | info    | The following assertion has been violated at time 35.010000
+assert            | info    | The following assertion has been violated at time 35.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 40.010000
+assert            | info    | The following assertion has been violated at time 40.010000
+assert            | info    | The following assertion has been violated at time 40.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 45.010000
+assert            | info    | The following assertion has been violated at time 45.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 50.010000
+assert            | info    | The following assertion has been violated at time 50.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 55.010000
+assert            | info    | The following assertion has been violated at time 55.010000
+assert            | info    | The following assertion has been violated at time 55.010000
+assert            | info    | The following assertion has been violated at time 55.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 60.010000
+assert            | info    | The following assertion has been violated at time 60.010000
+assert            | info    | The following assertion has been violated at time 60.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 65.010000
+assert            | info    | The following assertion has been violated at time 65.010000
+assert            | info    | The following assertion has been violated at time 65.010000
+assert            | info    | The following assertion has been violated at time 65.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 70.010000
+assert            | info    | The following assertion has been violated at time 70.010000
+assert            | info    | The following assertion has been violated at time 70.010000
+assert            | info    | The following assertion has been violated at time 70.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 75.010000
+assert            | info    | The following assertion has been violated at time 75.010000
+assert            | info    | The following assertion has been violated at time 75.010000
+assert            | info    | The following assertion has been violated at time 75.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 80.010000
+assert            | info    | The following assertion has been violated at time 80.010000
+assert            | info    | The following assertion has been violated at time 80.010000
+assert            | info    | The following assertion has been violated at time 80.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 85.010000
+assert            | info    | The following assertion has been violated at time 85.010000
+assert            | info    | The following assertion has been violated at time 85.010000
+assert            | info    | The following assertion has been violated at time 85.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 90.010000
+assert            | info    | The following assertion has been violated at time 90.010000
+assert            | info    | The following assertion has been violated at time 90.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 95.010000
+assert            | info    | The following assertion has been violated at time 95.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 100.010000
+assert            | info    | The following assertion has been violated at time 100.010000
+assert            | info    | The following assertion has been violated at time 100.010000
+assert            | info    | The following assertion has been violated at time 100.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 105.010000
+assert            | info    | The following assertion has been violated at time 105.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 110.010000
+assert            | info    | The following assertion has been violated at time 110.010000
+assert            | info    | The following assertion has been violated at time 110.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 115.010000
+assert            | info    | The following assertion has been violated at time 115.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 120.010000
+assert            | info    | The following assertion has been violated at time 120.010000
+assert            | info    | The following assertion has been violated at time 120.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 125.010000
+assert            | info    | The following assertion has been violated at time 125.010000
+assert            | info    | The following assertion has been violated at time 125.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 130.010000
+assert            | info    | The following assertion has been violated at time 130.010000
+assert            | info    | The following assertion has been violated at time 130.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 135.010000
+assert            | info    | The following assertion has been violated at time 135.010000
+assert            | info    | The following assertion has been violated at time 135.010000
+assert            | info    | The following assertion has been violated at time 135.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 140.010000
+assert            | info    | The following assertion has been violated at time 140.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 145.010000
+assert            | info    | The following assertion has been violated at time 145.010000
+assert            | info    | The following assertion has been violated at time 145.010000
+assert            | info    | The following assertion has been violated at time 145.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 150.010000
+assert            | info    | The following assertion has been violated at time 150.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 155.010000
+assert            | info    | The following assertion has been violated at time 155.010000
+assert            | info    | The following assertion has been violated at time 155.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 160.010000
+assert            | info    | The following assertion has been violated at time 160.010000
+assert            | info    | The following assertion has been violated at time 160.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 165.010000
+assert            | info    | The following assertion has been violated at time 165.010000
+assert            | info    | The following assertion has been violated at time 165.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 170.010000
+assert            | info    | The following assertion has been violated at time 170.010000
+assert            | info    | The following assertion has been violated at time 170.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 175.010000
+assert            | info    | The following assertion has been violated at time 175.010000
+assert            | info    | The following assertion has been violated at time 175.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 180.010000
+assert            | info    | The following assertion has been violated at time 180.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 185.010000
+assert            | info    | The following assertion has been violated at time 185.010000
+assert            | info    | The following assertion has been violated at time 185.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 190.010000
+assert            | info    | The following assertion has been violated at time 190.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 195.010000
+assert            | info    | The following assertion has been violated at time 195.010000
+assert            | info    | The following assertion has been violated at time 195.010000
+assert            | info    | The following assertion has been violated at time 195.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 200.010000
+assert            | info    | The following assertion has been violated at time 200.010000
+assert            | info    | The following assertion has been violated at time 200.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 205.010000
+assert            | info    | The following assertion has been violated at time 205.010000
+assert            | info    | The following assertion has been violated at time 205.010000
+assert            | info    | The following assertion has been violated at time 205.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 210.010000
+assert            | info    | The following assertion has been violated at time 210.010000
+assert            | info    | The following assertion has been violated at time 210.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 215.010000
+assert            | info    | The following assertion has been violated at time 215.010000
+assert            | info    | The following assertion has been violated at time 215.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 220.010000
+assert            | info    | The following assertion has been violated at time 220.010000
+assert            | info    | The following assertion has been violated at time 220.010000
+assert            | info    | The following assertion has been violated at time 220.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 225.010000
+assert            | info    | The following assertion has been violated at time 225.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 230.010000
+assert            | info    | The following assertion has been violated at time 230.010000
+assert            | info    | The following assertion has been violated at time 230.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 235.010000
+assert            | info    | The following assertion has been violated at time 235.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 240.010000
+assert            | info    | The following assertion has been violated at time 240.010000
+assert            | info    | The following assertion has been violated at time 240.010000
+assert            | info    | Found event, previous asserts are ignored.
+assert            | info    | The following assertion has been violated at time 245.010000
+assert            | info    | The following assertion has been violated at time 245.010000
+assert            | info    | Found event, previous asserts are ignored.
+[/home/parallels/Desktop/Tesi/progetto-ia/Drone/monitor.mo:139:2-139:53:writable]
+stdout            | info    | Simulation call terminate() at time 250.000000
+|                 | |       | Message : Simulation limit reached. Go home now.
+LOG_SUCCESS       | info    | The simulation finished successfully.

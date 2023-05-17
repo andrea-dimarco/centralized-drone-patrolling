@@ -1,0 +1,2 @@
+AvgDrones AvgNoDrone MaxNoDrone PrDrones StdDev (time = 250 )
+0.6075  1.875  15  0.595  0.488751
