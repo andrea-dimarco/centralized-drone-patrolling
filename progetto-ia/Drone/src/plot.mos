@@ -1,0 +1,22 @@
+
+plot({
+
+// drone
+	//d[1].x,
+	//d[1].z,
+	//d[1].y,
+
+// monitor
+	m.avg_drones_all_areas,
+	m.p_drones_all_areas,
+	m.avg_no_drone_time_all_areas,
+	m.max_no_drone_time,
+
+// control center
+	cc.time_passed_since_last_loop
+
+}, externalWindow=true, fileName="System_res.mat");
+getErrorString();
+
+
+
