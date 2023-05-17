@@ -1,0 +1,53 @@
+
+plot({
+
+// drone
+	//d[1].x,
+	//d[1].d.battery,
+	//d[1].setx,
+	d[1].batteryPercentage,
+	d[2].batteryPercentage,
+	d[3].batteryPercentage,
+	d[4].batteryPercentage,
+	//d[1].z,
+	//d[1].y,
+	//d[1].comm_state,
+
+
+// monitor
+	m.avg_drones_all_areas,
+	m.p_drones_all_areas,
+	m.avg_no_drone_time_all_areas,
+	m.max_no_drone_time,
+	m.std_dev_all_areas,
+	//m.no_drone_time[1], m.no_drone_time[2], m.no_drone_time[3], m.no_drone_time[4],
+	//m.no_drone_time[5], m.no_drone_time[6], m.no_drone_time[7], m.no_drone_time[8], 
+
+
+// control center
+	cc.aliveDrones,
+	cc.rechargingDrones,
+	cc.time_passed_since_last_loop,
+	//cc.battery[1],
+	//cc.isRecharging[1],
+	//cc.setx[1],
+	//cc.pos[1,1],
+	//cc.isDead[1]
+	//cc.time_span
+	//cc.state
+	//cc.msg_to_drone[1,1],
+	cc.hasBeenVisited[1], cc.hasBeenVisited[2], cc.hasBeenVisited[3], cc.hasBeenVisited[4],
+	cc.hasBeenVisited[5], cc.hasBeenVisited[6], cc.hasBeenVisited[7], cc.hasBeenVisited[8],
+	
+	
+// comm
+	cc_to_drone[1].writesignal,
+	cc_to_drone[1].inputdata[1]
+
+
+
+}, externalWindow=true, fileName="System_res.mat");
+getErrorString();
+
+
+
